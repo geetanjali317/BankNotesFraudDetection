@@ -106,9 +106,10 @@ Use the trained model to predict whether a given banknote is genuine or fraudule
 
 The best performing model achieved the following results:
 
-Model	                   Accuracy	Precision Recall  F1-Score		
+Model	Accuracy	Precision	Recall  	F1-Score
 Random Forest Classifier	99.00%	0.98	0.99	0.99
-![image](https://github.com/user-attachments/assets/53289607-986c-4fd3-a2d6-c0576bbea784)
+![image](https://github.com/user-attachments/assets/e8389616-faf0-4632-b4d1-9f2599ffec9e)
+
 
 
 
