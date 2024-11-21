@@ -105,6 +105,7 @@ Use the trained model to predict whether a given banknote is genuine or fraudule
 📊 Results
 
 The best performing model achieved the following results:
+
 ![image](https://github.com/user-attachments/assets/e8389616-faf0-4632-b4d1-9f2599ffec9e)
 
 
